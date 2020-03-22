@@ -1,0 +1,13 @@
+com/accesshq/test/FormPageTest.class
+com/accesshq/test/LoginDialogTest.class
+com/accesshq/planet/CompareToStrategy.class
+com/accesshq/pages/FormPageItem.class
+com/accesshq/test/BaseTestSuit.class
+com/accesshq/logindialog/LoginDialog.class
+com/accesshq/test/PlanetPageTest.class
+com/accesshq/pages/PlanetPage.class
+com/accesshq/planet/StringComparable.class
+com/accesshq/planet/Planet.class
+com/accesshq/test/HomePageTest.class
+com/accesshq/pages/HomePage.class
+com/accesshq/pages/BasePage.class
